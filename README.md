@@ -9,8 +9,6 @@ This repository contains a **project-level Infrastructure as Code (IaC) solution
 - **Outputs for instance ID and public IP**
 - **Tagging aligned with corporate cloud governance**
 
----
-
 ## 🏗 AWS Resources Provisioned
 | CloudFormation Resource | Description |
 |---|---|
